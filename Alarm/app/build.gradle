@@ -5,8 +5,13 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.tjwoo.alarm"
         minSdkVersion 16
+=======
+        applicationId "mackey.com.alarm"
+        minSdkVersion 15
+>>>>>>> ce99a4d760b4d594e914fe1598431c11d07978a5
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
